@@ -1,0 +1,34 @@
+{
+    "string": {
+        "username": "string",
+        "email": "user@example.com",
+        "password_hash": "985879addf27e948d1928f67f173dbaa1b14b71a6b1d71d997f1fcd53cc7c978",
+        "salt": "546b281c8ab1290b68e181281da028ebe4bce2b42d0ce2e860bd081230484ba5",
+        "created_at": "2025-03-18T05:16:19.982832",
+        "last_login": "2025-03-18T06:02:57.576004",
+        "profile_image": null,
+        "friends": [
+            "asdasdasd"
+        ]
+    },
+    "asdasdasd": {
+        "username": "asdasdasd",
+        "email": "user@example.com",
+        "password_hash": "43caefcbc304a7ce9e71c32fd3fc456cac77e1c7c4dfe1331ed9b731c177b55b",
+        "salt": "433b6deccaf382590f224bc7848f4fbf12a8c8fc49baa073b1561f601262ff8f",
+        "created_at": "2025-03-18T05:17:30.257561",
+        "last_login": null,
+        "profile_image": null,
+        "friends": []
+    },
+    "qweqweqwe": {
+        "username": "qweqweqwe",
+        "email": "user@example.com",
+        "password_hash": "cf01563d8dbdc60fcc8f430ed59f83602c091fc8236d3f8b8b2c6f69cf6240a9",
+        "salt": "e92a89beae87233459e28471b19e5287a422fe7f9e90557753de98527f8917f4",
+        "created_at": "2025-03-18T05:17:38.697677",
+        "last_login": null,
+        "profile_image": null,
+        "friends": []
+    }
+}
