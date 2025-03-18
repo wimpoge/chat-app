@@ -5,7 +5,7 @@ from models.schemas import Token, UserCreate, PasswordChange
 from services.auth import AuthService
 
 router = APIRouter()
-oauth2_scheme = OAuth2PasswordBearer(tokenUrl="token")
+oauth2_scheme = OAuth2PasswordBearer(tokenUrl="login")
 
 def initialize(auth_service):
     """Initialize controller with required services"""

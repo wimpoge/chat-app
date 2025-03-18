@@ -1,0 +1,22 @@
+{
+    "string": {
+        "username": "string",
+        "email": "user@example.com",
+        "password_hash": "7c0f485557851381d51818bed4bc7cbb4aa2dcdd68749f281973a7ce5c61154f",
+        "salt": "2b04fa0f5483c9022ff27dbfd995295b43ab6a04944c9464d94149e771d7087d",
+        "created_at": "2025-03-18T21:44:28.340279",
+        "last_login": "2025-03-18T21:49:11.763722",
+        "profile_image": null,
+        "friends": []
+    },
+    "s": {
+        "username": "s",
+        "email": "user@example.com",
+        "password_hash": "2ae3b0af10e8ae6acf88127b9a2989729e425886a0c7e0221632bf4904611f39",
+        "salt": "800ea33ac2d151170c24d60647dc5c11cd2f5e6a507f1b736c63fabc7e0ff7ed",
+        "created_at": "2025-03-18T21:49:53.393947",
+        "last_login": null,
+        "profile_image": null,
+        "friends": []
+    }
+}
