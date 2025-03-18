@@ -31,6 +31,14 @@ ENV/
 *.sqlite
 *.sqlite3
 
+# JSON database files
+user_db.json
+message_db.json
+group_db.json
+group_message_db.json
+friend_requests.json
+tokens.json
+
 # Logs
 logs/
 *.log
@@ -51,3 +59,8 @@ uploads/
 *.swp
 *.swo
 .DS_Store
+
+# npm/yarn
+node_modules/
+package-lock.json
+yarn.lock

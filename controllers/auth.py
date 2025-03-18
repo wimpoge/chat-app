@@ -17,7 +17,7 @@ def initialize(auth_service):
             raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=message)
         return {"message": message}
 
-    @router.post("/token", response_model=Token)
+    @router.post("/login", response_model=Token)
     async def login(form_data: OAuth2PasswordRequestForm = Depends()):
         if not auth_service.verify_password(form_data.username, form_data.password):
             raise HTTPException(
