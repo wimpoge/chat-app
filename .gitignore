@@ -38,7 +38,7 @@ group_db.json
 group_message_db.json
 friend_requests.json
 tokens.json
-
+users.json
 # Logs
 logs/
 *.log
